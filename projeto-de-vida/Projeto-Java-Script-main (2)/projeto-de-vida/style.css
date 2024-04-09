@@ -215,5 +215,12 @@ body {
           .ativo{
             display: block;
           }
-        
+          .fundo-preto{
+            background: black;
+            color: white;
+          }
+          .botao{
+            padding: 2em; 
+          }
+          
           
