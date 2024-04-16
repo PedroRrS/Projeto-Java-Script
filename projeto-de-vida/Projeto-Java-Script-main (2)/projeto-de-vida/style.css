@@ -222,5 +222,91 @@ body {
           .botao{
             padding: 2em; 
           }
-          
+          .contador-digito-texto{
+    color: var(--verde);
+    font-size: 20px;
+    margin: 0;
+}
+.contador{
+    display:flex;
+    justify-content: center;
+}
+.contador-digito{
+    padding: 0 16px;
+    text-align: center;
+}
+.contador-digito-numero{
+    font-size: 80px;
+    margin: 0;
+}
+.contador-digito-texto{
+    color: var(--verde);
+    font-size: 20px;
+    margin: 0;
+}
+.contador{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .contador-digito{
+    padding: 0 16px;
+    text-align: center;
+    min-width: 100px;
+  }
+  .contador-digito-número{
+    font-size: 80px;
+    margin: 0;
+  }
+  .contador-digito-texto{
+    color: var(--verde);
+    font-size: 20px;
+    margin: 0;
+  }
+  .contador{
+    display: flex;
+    justify-content: center;
+}
+.contador-digito{
+    padding: 0 16px;
+    text-align: center;
+}
+.contador-digito-numero{
+    font-size: 80px;
+    margin: 0;
+}
+.contador-digito-texto{
+    color: var(--verde);
+    font-size: 20px;
+    margin: 0;
+}
+.contador{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.contador-digito{
+    padding: 0 16px;
+    text-align: center;
+    min-width: 100px;
+}
+.nome { font-size: 40px; }
+.especialidade { font-size: 12px; }
+.pedro { color: red; }
+.lara { color: green; }
+.sofia { color: blue; }
+div{ display:inline-block; text-align:center; }
+div {
+    display: inline-block;
+    padding: 0 1em;
+    text-align: center;
+}
+
+.posicao{
+    font-size: 10px;
+}
+.conteudo { display:flex; justify-content:center; text-align:center; }
+.data { font-weight: bold; }
+.evento { font-size: 14px; margin-left: 10px; }
+
           
